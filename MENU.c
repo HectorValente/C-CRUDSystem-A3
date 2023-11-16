@@ -7,6 +7,7 @@ void bold(int status) {
 
 int main(){
 
+        //MENU PRINCIPAL
         int menu;
 
         do{
@@ -35,6 +36,7 @@ int main(){
                         scanf("%d", &menu);
                 }
                         
+                //MENU SECUNDÁRIO
                 switch(menu){
                                 case 1:
                                 
